@@ -1,0 +1,6 @@
+{
+  "name": "Gioia! Pizzeria",
+  "description": "Pizzaria artesanal napolitana com forno a lenha, fermentação lenta de 48h e pedidos direto via WhatsApp em Santa Rosa - RS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
